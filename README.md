@@ -43,10 +43,10 @@
   </a>
 </p>
 
-<h3 align="center">GitHub Stats:</h3>
+<h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ammarusmani07&show_icons=true&theme=dracula" alt="GitHub Stats" width="40%" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ammarusmani07&theme=dracula" alt="GitHub Streak" width="40%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ammarusmani07&show_icons=true&theme=dracula" alt="GitHub Stats" width="40%" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ammarusmani07&theme=dracula" alt="GitHub Streak" width="40%" />
 </p>
 
 <br clear="left" />
