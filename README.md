@@ -45,12 +45,11 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ammarusmani07&show_icons=true&theme=dracula" alt="GitHub Stats" width="40%" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ammarusmani07&theme=dracula" alt="GitHub Streak" width="40%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ammarusmani07&show_icons=true&theme=dracula" alt="GitHub Stats" width="43%" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ammarusmani07&theme=dracula" alt="GitHub Streak" width="43%" />
 </p>
 
 <br clear="left" />
-
 <h3 align="center">Most Used Languages:</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarusmani07&layout=compact&theme=dracula" alt="Top Languages" />
